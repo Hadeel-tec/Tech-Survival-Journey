@@ -6,4 +6,4 @@ They include exercises and code I worked on while learning:
 
 Logistic Regression 
 Hyperparameter tuning
-NLP and classification
+and linear regression
