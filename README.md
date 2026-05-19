@@ -38,3 +38,12 @@ I believe self-learning should not mean learning alone.
 - You do not need to know everything before you start.  
 - Progress comes step by step.  
 - Asking questions is part of learning.
+
+## Repository Structure
+
+- README.md → Project overview and my learning journey
+- notebooks/ → Hands-on machine learning practice notebooks
+
+## Final Note
+
+This project represents my first steps into the world of AI and Machine Learning. It is a reflection of learning, practice, and continuous improvement rather than perfection.
